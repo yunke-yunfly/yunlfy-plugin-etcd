@@ -33,7 +33,11 @@
     "changelog",
     "sendmessage",
     "resaction",
-    "emmiter"
+    "emmiter",
+    "ETCDV",
+    "zhangsan",
+    "npmcorp",
+    "etcdjs"
   ],
   "ignorePaths": [
     "package.json",

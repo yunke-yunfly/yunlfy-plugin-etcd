@@ -17,7 +17,8 @@ module.exports = {
     'global-require': 0,
     'import/no-dynamic-require': 0,
     'no-eval': 0,
-    'import/order': 0
+    'import/order': 0,
+    '@typescript-eslint/ban-types':0,
   },
   ignorePatterns: ['src/__tests__/**', 'rollup.config.js', 'commitlint.config.js'],
 };
