@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.2 (2023-07-31)
+
+
+### Features
+
+* first version ([6959f20](https://github.com/yunke-yunfly/yunfly-plugin-etcd/commit/6959f208cfefd801c011c6c93af4555f1fb473fb))
+
 ### 0.0.1 (2023-07-28)
 
 
